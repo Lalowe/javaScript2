@@ -16,8 +16,5 @@ function atm() {
     rest = rest % 5;
 
     console.log(`You will get ${firstBanknote} 500 notes   ${secondBanknote} 200 notes ${thirdBanknote}  100 notes ${fourthBanknote} 50 notes ${fifthBanknote} 20 notes  ${sixthBanknote} 10 notes ${seventhBanknote} 5 notes`)
-
-
-
 }
 atm()
